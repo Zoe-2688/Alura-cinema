@@ -1,6 +1,12 @@
 {
     "compilerOptions": {
+<<<<<<< HEAD
         "baseUrl":"src"
     },
     "include":["src"]
+=======
+        "baseUrl": "src"
+    },
+    "include": ["src"] 
+>>>>>>> 0c64fc2e5e6088a5df12b7bae8b6e613703581d2
 }

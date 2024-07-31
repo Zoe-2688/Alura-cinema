@@ -7,8 +7,11 @@
 
 # testing
 /coverage
+<<<<<<< HEAD
 /src/components/Banner
 /src/components/Titulo
+=======
+>>>>>>> 0c64fc2e5e6088a5df12b7bae8b6e613703581d2
 
 # production
 /build

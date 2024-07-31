@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [
+=======
+{ "videos" : [
+>>>>>>> 0c64fc2e5e6088a5df12b7bae8b6e613703581d2
     {
         "id": 1,
         "titulo": "Como utilizar el Display block, inline, inline-block",
@@ -24,4 +28,8 @@
         "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
     }
 ]
+<<<<<<< HEAD
 
+=======
+}
+>>>>>>> 0c64fc2e5e6088a5df12b7bae8b6e613703581d2

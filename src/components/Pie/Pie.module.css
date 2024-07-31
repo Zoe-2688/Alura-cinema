@@ -1,8 +1,12 @@
 .pie {
+
+    bottom: 0;
+    width: 100%;
     background-color: var(--negro);
     display: flex;
     align-items: center;
     justify-content: center;
+    
 
 }
 
